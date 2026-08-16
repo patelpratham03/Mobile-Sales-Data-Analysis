@@ -8,7 +8,7 @@ This project presents an interactive Mobile Sales Data Analysis Dashboard create
 
 The dashboard helps analyze mobile sales performance and provides meaningful insights through interactive visualizations, KPI cards, filters, and sales analysis.
 
-## 🛠 Tools & Technologies
+🛠 Tools & Technologies
 
 * Microsoft Power BI
 * Power Query
