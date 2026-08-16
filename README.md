@@ -1,7 +1,7 @@
 # Mobile Sales Data Analysis Dashboard
 
 ## 📊 Dashboard Preview
-<img width="1920" height="1080" alt="dashboard" src="https://github.com/user-attachments/assets/c65d6135-59cb-4b16-a3f3-03d0573edfee" />
+<img width="1326" height="741" alt="Dashboard" src="https://github.com/user-attachments/assets/b26691c1-2761-4f4b-af42-058e15610ed8" />
 
 📌 Project Overview
 
